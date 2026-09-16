@@ -8,6 +8,10 @@
     {
       "src": "portfolio.html",
       "use": "@vercel/static"
+    },
+    {
+      "src": "profile.jpeg",
+      "use": "@vercel/static"
     }
   ],
   "routes": [
